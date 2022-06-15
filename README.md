@@ -1,2 +1,2 @@
 # Mnist-Training
-Öğrenme amaçlı yapılmıştır.
+If you run this code, you need to install tensorflow and matplotlib libraries.
